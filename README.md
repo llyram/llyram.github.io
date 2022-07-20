@@ -24,9 +24,9 @@
 
 # Screenshots
 
-![landing page](assets\img\thumbnail\Index.png)
-![about](assets\img\thumbnail\about.png)
-![contact form](assets\img\thumbnail\contact.png)
+![landing page](assets/img/thumbnail/Index.png)
+![about](assets/img/thumbnail/about.png)
+![contact form](assets/img/thumbnail/contact.png)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
